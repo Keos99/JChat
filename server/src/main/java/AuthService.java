@@ -1,5 +1,3 @@
-package ru.jchat.core.server;
-
 import java.sql.*;
 
 public class AuthService {
